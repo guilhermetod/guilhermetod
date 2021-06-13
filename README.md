@@ -2,7 +2,7 @@
 
 #### I'm Guilherme, from Curitiba, Brazil.
 
-I'm a front end developer, currently working with Angular and Firebase, with a lot of interest in serverless applications.
+I'm a front end developer, currently working with Angular, with a lot of interest in serverless applications.
 
 I'm always interested in improving my code qualitiy and in good practices in general. Most of my activities besides my private or job projects include development tools, so I'm always open to contribute to these projects. You can find out how to contact me below!
 
