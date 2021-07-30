@@ -11,6 +11,8 @@ I'm always interested in improving my code qualitiy and in good practices in gen
 <div>
   <a href="https://github.com/guilhermetod">
   <img align="center" height="180em" src="https://github-readme-stats-guilhermetod.vercel.app/api?username=guilhermetod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <br />
+   <br />
   <img align="center" height="180em" src="https://github-readme-stats-guilhermetod.vercel.app/api/top-langs/?username=guilhermetod&layout=compact&langs_count=10&theme=algolia"/>
 </div>
   
