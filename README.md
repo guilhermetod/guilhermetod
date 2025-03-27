@@ -2,9 +2,13 @@
 
 #### I'm Guilherme, from Curitiba, Brazil.
 
-I'm a front end developer, currently working with Angular, with a lot of interest in serverless applications.
+Front-end specialist engineer with 7+ years of experience in building high-level with Angular and React JS.
 
-I'm always interested in improving my code qualitiy and in good practices in general. Most of my activities besides my private or job projects include development tools, so I'm always open to contribute to these projects. You can find out how to contact me below!
+Expert in TypeScript, HTML, CSS, Node.js, NestJS, and NX Workspaces, with knowledge of advanced RxJS concepts, Redux pattern and libraries and multiple CI/CD pipelines. Experienced in leading full app development, building and implementing scalable, ergonomic and accessible Design Systems, performing framework upgrades and migrations, implementing and structuring NX monorepos, defining code guidelines and front-end architecture.
+
+Advocate for high-quality code, modern tooling adoption, performance and cost optimization, and comprehensive testing (Jest, Jasmine, Cypress and Mocha). Passionate for building high level applications with attention to details and high demanding requirements.
+
+Proactive and strong communicator with proven leadership skills and extensive experience collaborating with global clients across the US, Canada, Brazil, France, and Ukraine. Proficient in working seamlessly with UI/UX designers, QA, and software engineers, with a record of mentoring developers across multiple domains.
 
 <br />
 
